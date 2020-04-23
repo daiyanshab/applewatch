@@ -1,0 +1,262 @@
+.navbar .navbar-nav{
+	
+margin-left: auto;
+}
+.nav-item {
+
+}
+.header-section .navbar-brand{
+	font-family: 'Rock Salt', cursive;
+}
+
+.nav-item a{
+	
+color: #4C4C6D !important;
+	
+font-size: 20px;
+	
+font-weight: 700;
+}
+.banner-section{
+    margin-top: 35px;
+}
+
+.features-section h1{
+	font-family: 'Abril Fatface', cursive;
+	color: #3B4045;
+}
+
+.watch{
+
+}
+.watch img{
+
+}
+.content{
+
+/* margin-left: 20px; */
+}
+.content h1{
+	font-family: 'Abril Fatface', cursive;
+	font-size: 54px;
+	line-height: 75px;
+	text-align: left;
+	color: #3B4045;
+}
+.content p{
+	
+font-size: 14px;
+	
+color: #7F8386;
+	
+text-align: left;
+}
+.content button{
+	background: #F9A743;
+    border-color: snow;
+    border-radius: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 700;
+    font-size: 15px;
+    margin-right: 300px;
+    margin-top: 20px;
+}
+button.btn.btn-primary.btn-lg {
+    
+}
+
+
+.about{
+
+background: #F9A743;
+
+min-height: 100vh;
+
+padding-top: 50px;
+}
+.about img{
+
+}
+.about .content{
+	
+margin-top: 100px;
+}
+.about h3{
+	
+color: #FDE8CE;
+	
+font-size: 32px;
+	
+font-weight: 700;
+	
+line-height: 48px;
+}
+.about p{
+	
+color: #dfedf9db;
+}
+
+
+.choose-section{
+
+}
+.choose-section .content{
+
+margin-top: 100px;
+
+line-height: 30px;
+}
+
+.choose-section h4{
+	
+color: #545454;
+}
+.choose-section p{
+	
+color: #7b6a6a;
+}
+.choose-section button{
+	
+}
+
+.update-section{
+	background-image: url(../images/apple-watch-.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	/* background: #0000004a; */
+	position: relative;
+	height: 300px;
+}
+.update-section .content{
+	
+position: absolute;
+	
+z-index: 1;
+	
+color: white;
+	
+margin-top: 65px;
+	
+line-height: 40px;
+	
+margin-left: 70px;
+}
+.update-section h3{
+	
+letter-spacing: 5px;
+	
+margin-right: 110px;
+}
+.update-section p{
+	
+}
+.update-section .btn {
+	 background: #F9A743;
+	 border-color: snow;
+	 border-radius: 30px;
+	 padding-left: 30px;
+	 padding-right: 30px;
+	 padding-top: 10px;
+	 padding-bottom: 10px;
+	 font-weight: 700;
+	 /* font-size: 45px; */
+	 /* margin-right: 300px; */
+	 margin-top: 20px;
+	 margin-left: 135px;
+}
+.overlay{
+	
+background: #0000008f;
+	
+position: absolute;
+	
+top: 0;
+	
+left: 0;
+	
+/* background-color: black; */
+	
+width: 100%;
+	
+height: 100%;
+	
+/* z-index: -1; */
+}
+
+
+.watch-review-section{
+
+}
+.watch-review-section h2{
+	font-family: 'Neuton', serif;
+	font-size: 40px;
+}
+.watch-review-section .content{
+
+margin-top: 25px;
+
+margin-bottom: 25px;
+}
+.watch-review-section .content p{
+
+text-align: center;
+}
+
+.watch-review-section .content img{border: 1px solid none !important;border-radius: 50%;width: 15%;margin-left: 134px;/* margin-top: 22px; */}
+
+.watch-review-section .content h4{
+
+color: #5A5E62;
+
+font-size: 21px;
+
+font-weight: 600;
+
+margin-top: 14px;
+
+/* line-height: 30px; */
+
+margin-left: 81px;
+}
+
+.watch-review-section .content span{
+
+margin-left: 97px;
+
+font-size: 16px;
+
+color: #675a5a;
+
+font-weight: 400;
+}
+
+.copyright-section{
+
+background: #F4F4F4;
+}
+.copyright-section p{
+	
+font-size: 13px;
+}
+
+
+
+.swiper-container {
+      width: 100%;
+      height: 100%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+.swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #fff;
+      height: calc((100% - 30px) / 2);
+}
+.swiper-wrapper img{
+	width: 300px
+}
